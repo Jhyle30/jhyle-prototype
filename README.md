@@ -1,2 +1,2 @@
-# jhyle-prototype
+# SAMS
 my first repo
